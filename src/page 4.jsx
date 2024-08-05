@@ -30,6 +30,12 @@ const Page4 = () => {
 
                         <br/>
 
+                        <p className='font-goldman text-blue-light text-1xl m-0 p-0'>
+                            I built APIs for OKK management system, the APIs supports multiple CRUD features for managing committees, new students, and scheduling system between mentor and mentee
+                        </p>
+
+                        <br/>
+
                         <div style={{ paddingRight: 5}}>
                             <IconButton text="Github" href="https://github.com/szoyaf/ristek-okk-webdev">
                                 <GitHub size={20} />
@@ -40,6 +46,12 @@ const Page4 = () => {
                     <Box>
                         <p className='font-goldman text-blue-light text-1xl m-0 p-0'>
                             Sistech Blog Application
+                        </p>
+                        
+                        <br/>
+
+                        <p className='font-goldman text-blue-light text-1xl m-0 p-0'>
+                            I made a simple blog site with API that supports CRUD features to posts being added.
                         </p>
                         
                         <br/>
